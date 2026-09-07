@@ -1,2 +1,3 @@
-# taip: # Bootcamp Git Project
-# taip: Sesi Git 1perubahan
+# Bootcamp Git Project
+
+Sesi Git 1
