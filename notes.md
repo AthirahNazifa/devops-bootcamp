@@ -8,3 +8,6 @@ Git Commands
 5. git rm --cached <filename>
 6. git commit -m "messages" 
 7. git update-ref -d HEAD
+8. git diff
+
+# Read = git log + git diff
