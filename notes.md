@@ -10,4 +10,4 @@ Git Commands
 7. git update-ref -d HEAD
 8. git diff
 
-# Read = git log + git diff
+# Read = git log + git diff- Branch = cabang timeline
