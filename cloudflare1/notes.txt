@@ -1,0 +1,3 @@
+nameserver: bruce.ns.cloudflare.com, lauryn.ns.cloudflare.com
+portfolio: https://project-96v.pages.dev/
+private-site: https://private-site-4dj.pages.dev/
